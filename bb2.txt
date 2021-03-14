@@ -1,4 +1,3 @@
 edit
 master edit
 dev edit
-stash master
