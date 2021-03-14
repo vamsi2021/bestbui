@@ -1,3 +1,4 @@
 sample
 edit
 dev branch
+stash check
